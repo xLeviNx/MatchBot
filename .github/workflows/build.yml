@@ -1,7 +1,7 @@
 name: Action Build System
 on: [push]
 env:
-  CONTAINER: ubuntu:18.04
+  CONTAINER: ubuntu:22.04
 
 jobs:
   linux:
